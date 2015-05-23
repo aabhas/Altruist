@@ -1,3 +1,5 @@
+####Author: Aabhas Sharma
+
 ###About the Altruist
 
 This application acts as a means for any person willing to donate to identify a family/person in need. Based on the users' location and causes they care about, TheAltruist locates families/people that could use the donor's assistance. The information on the people in need is provided by the various NGOs across the globe. The user must simply sign up to use this application! 

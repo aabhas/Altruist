@@ -1,6 +1,3 @@
-# Altruist
-This application acts as a means for any person willing to donate to identify a family/person in need. 
-
 About the Altruist
 ===============================
 

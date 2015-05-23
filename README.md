@@ -1,5 +1,4 @@
-About the Altruist
-===============================
+###About the Altruist
 
 This application acts as a means for any person willing to donate to identify a family/person in need. Based on the users' location and causes they care about, TheAltruist locates families/people that could use the donor's assistance. The information on the people in need is provided by the various NGOs across the globe. The user must simply sign up to use this application! 
 
@@ -7,14 +6,13 @@ The motivation behind our idea is simple- we want to empower everyone with the a
 
 A personal touch to the kind act of helping another person in need!
 
-Links:
-======
+###Links:
 
 * The Altruist web site  . . . . . http://web.engr.illinois.edu/~asharm36/
 * Github Repo  . . . . . . . . . . https://github.com/aabhas
 
-Source Code Content:
-===================
+###Source Code Content:
+
 HTML Files
 * index.html 				- home page
 * login.html 				- the login/sign-up page

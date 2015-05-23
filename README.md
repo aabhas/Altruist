@@ -8,8 +8,8 @@ A personal touch to the kind act of helping another person in need!
 
 ###Links:
 
-* The Altruist web site            http://web.engr.illinois.edu/~asharm36/
-* Github Repo                      https://github.com/aabhas
+* The Altruist web site | http://web.engr.illinois.edu/~asharm36/
+* Github Repo | https://github.com/aabhas
 
 ###Source Code Content:
 
